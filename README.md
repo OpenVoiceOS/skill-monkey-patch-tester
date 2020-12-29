@@ -2,6 +2,8 @@
 
 Test if [monkey patches](https://github.com/JarbasSkills/skill-monkey-patcher) were applied successfully
 
+![](./logo.png)
+
 ## About
 
 Contributing to Mycroft is a bit of a fight with upstream, this skill tests 
