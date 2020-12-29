@@ -1,0 +1,22 @@
+{
+  "name": "Monkey Patch Tester",
+  "skillname": "skill-monkey-patch-tester",
+  "authorname": "JarbasSkills",
+  "foldername": "",
+  "url": "https://github.com/JarbasSkills/skill-monkey-patch-tester",
+  "branch": "v0.1",
+  "desktopFile": false,
+  "warning": "",
+  "systemDeps": false,
+  "platforms": [
+    "arm",
+    "arm64",
+    "i386",
+    "x86_64",
+    "ia64"
+  ],
+  "examples": [
+    "Are you monkey patched",
+    "are the patches working"
+  ]
+}
